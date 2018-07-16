@@ -14,8 +14,8 @@
 - [ ] Render the particle systems
 - [ ] Render the fluid
 	- [ ] Grid Sampling
-		-[ ] Volume raycasting
-		-[ ] Marching cubes
+		- [ ] Volume raycasting
+		- [ ] Marching cubes
 	- [ ] Metaball based construction
 
 ### References
