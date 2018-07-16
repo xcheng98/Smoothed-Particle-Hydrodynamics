@@ -32,7 +32,9 @@
 	* OpenGL: https://learnopengl.com
 	* Fluid Simulation Tutorial on physical equations, data structures, pseudo code, and rending: http://users.encs.concordia.ca/~grogono/Graphics/fluid-5.pdf
 	* Fluid simulation course notes (chapter 9 SPH): https://www.cs.ubc.ca/~rbridson/fluidsimulation/fluids_notes.pdf
-	* [Physically Based Modeling](https://www.cs.cmu.edu/~baraff/sigcourse/notesc.pdf) from CMU Andrew Witkin
+	* [Physically Based Modeling](https://www.cs.cmu.edu/~baraff/sigcourse/notesc.pdf) from CMU Andrew Witkin 
+	* [Fluid Rendering using Screen Space Meshes](http://developer.download.nvidia.com/presentations/2010/gdc/Direct3D_Effects.pdf) from GDConf by Simon Green
+	
 
 * Programming guide
 	* [CUDA Particle Simulation](http://developer.download.nvidia.com/assets/cuda/files/particles.pdf)
