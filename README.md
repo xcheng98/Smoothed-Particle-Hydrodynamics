@@ -13,8 +13,10 @@
 		- [ ] Collision
 - [ ] Render the particle systems
 - [ ] Render the fluid
-	- [] Marching cubes
-	- [] Filtering depth buffer
+	- [ ] Grid Sampling
+		-[ ] Volume raycasting
+		-[ ] Marching cubes
+	- [ ] Metaball based construction
 
 ### References
 * Projects
@@ -23,8 +25,8 @@
 	* [Smoothed Particle Hydrodynamics](https://github.com/loohill/SPH-Fluid-Simulation) (by loohill): 
 	* [Smoothed Particle Hydrodynamics](http://users.csc.calpoly.edu/~zwood/teaching/csc572/final15/awang/index.html) demo with explaination
 * Papers
-	* Miles Macklin, Matthias Müller (2013) [Position based fluids](http://mmacklin.com/pbf_sig_preprint.pdf)
-	* Matthias Müller (2003) [Particle-Based Fluid Simulation for Interactive Applications](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.121.844&rep=rep1&type=pdf)
+	* Miles Macklin, Matthias Müller (2013) [Position based fluids](http://mmacklin.com/pbf_sig_preprint.pdf)
+	* Matthias Müller (2003) [Particle-Based Fluid Simulation for Interactive Applications](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.121.844&rep=rep1&type=pdf)
 
 * Tutorials
 	* OpenGL: https://learnopengl.com
